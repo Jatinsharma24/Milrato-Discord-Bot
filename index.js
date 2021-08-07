@@ -164,8 +164,7 @@ client.on("message", async message => {
 
 client.login(config.token);
 
-//BOT CODED BY: Tomato#6966
-//DO NOT SHARE WITHOUT ALLOW!
+
 
 
 
